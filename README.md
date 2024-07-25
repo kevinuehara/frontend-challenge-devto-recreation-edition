@@ -18,7 +18,7 @@ Also, is responsive, with accessibility, performance and Best SEO!å
 
 Just use the Live Server of VS Code extension. Click on HTML file with the right button of the mouse and click on `Open Live Server`. Access the `http://localhost:5501/index.html`.
 
-This project is hosted on Vercel. Just access the `https://devto-frontend-challenge-june.vercel.app/`
+This project is hosted on Vercel. Just access the `https://frontend-challenge-devto-recreation-edition.vercel.app/`
 
 ## Light House Metrics
 
